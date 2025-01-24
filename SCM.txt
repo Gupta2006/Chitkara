@@ -1,0 +1,17 @@
+git --version - to check the version
+pwd - to check the directory
+cd c:/ - to go to that path
+cd - default directory
+cd "Group 10" - to get that folder
+ls - check the list of that drive
+clear - to clear all thing
+ls -a - to get the hidden flies or folder
+git config --global --list - tells about the developer working on it
+git status -
+how to initialise the local directory 
+1)first use editor and cd command to move to that folder where you want to initialise the directory.
+2)use command "git init"
+*".git" provides hidden file
+3)configure the local repository
+4)
+
