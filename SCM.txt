@@ -8,10 +8,17 @@ clear - to clear all thing
 ls -a - to get the hidden flies or folder
 git config --global --list - tells about the developer working on it
 git status -
+git commit -m "end" -work on all the staged file
+git add SCM.txt - 
+git add . - to add multiple file and does not add the folder 
+git show ec22886 -to see the commit
+git diff -compare the last committed file and upstaged file
+git log -total commits done
 how to initialise the local directory 
 1)first use editor and cd command to move to that folder where you want to initialise the directory.
 2)use command "git init"
 *".git" provides hidden file
 3)configure the local repository
-4)
+
+
 
